@@ -1,10 +1,11 @@
 <script setup>
 import { RouterView } from 'vue-router'
-import NavHeader from './components/NavHeader.vue'
+import FooterPages from './components/FooterPages.vue'
 </script>
 
 <template>
-  <NavHeader />
+
   <RouterView />
+  <FooterPages />
 </template>
 
