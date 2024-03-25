@@ -1,6 +1,6 @@
 <template>
 
-<footer class="p-4 bg-white border-t border-orange-600 md:p-8 lg:p-10 dark:bg-gray-800">
+<footer class="p-4 bg-white border-t border-orange-600 md:p-5 lg:p-6 dark:bg-gray-800">
 
   <div class="mx-auto max-w-screen-xl text-center">
       <a href="#" class="flex justify-center items-center text-2xl font-semibold text-gray-900 dark:text-white">

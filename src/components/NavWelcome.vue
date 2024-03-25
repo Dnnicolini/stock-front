@@ -14,17 +14,11 @@ import { faShareFromSquare } from '@fortawesome/free-regular-svg-icons'
         >
       </a>
       <div class="flex items-center md:order-2 space-x-3 md:space-x-0 rtl:space-x-reverse">
-        <button
-          type="button"
-          class="flex"
-          id="user-menu-button"
-          aria-expanded="false"
-          data-dropdown-toggle="user-dropdown"
-          data-dropdown-placement="bottom"
-        >
+      <a href="/login" class="flex mr-4">
+
           <span class="sr-only">Access Services</span>
           <FontAwesomeIcon :icon="faShareFromSquare" class="w-8 h-8 text-orange-600" />
-        </button>     
+        </a>     
       </div>
       <div
         class="items-center justify-between hidden w-full md:flex md:w-auto md:order-1"

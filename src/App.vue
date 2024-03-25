@@ -4,8 +4,7 @@ import FooterPages from './components/FooterPages.vue'
 </script>
 
 <template>
-
-  <RouterView />
+  <RouterView  />
   <FooterPages />
 </template>
 
